@@ -1,4 +1,4 @@
-//u^D_m?_>dMCfBtY7FTBV:wdu=`T]wp..H;#BZZL`5,_H{#HNqW(KatTg(e~B/"Eh}~4kFK*dQ~T;6
+
 //  main.cpp
 //  PE_QA
 //
